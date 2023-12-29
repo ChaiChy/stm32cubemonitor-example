@@ -1,7 +1,0 @@
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_gyroscope.c:102:9:BSP_GYRO_Init	24	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_gyroscope.c:157:9:BSP_GYRO_ReadID	16	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_gyroscope.c:172:6:BSP_GYRO_Reset	8	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_gyroscope.c:187:6:BSP_GYRO_ITConfig	24	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_gyroscope.c:211:6:BSP_GYRO_EnableIT	16	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_gyroscope.c:227:6:BSP_GYRO_DisableIT	16	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_gyroscope.c:240:6:BSP_GYRO_GetXYZ	16	static

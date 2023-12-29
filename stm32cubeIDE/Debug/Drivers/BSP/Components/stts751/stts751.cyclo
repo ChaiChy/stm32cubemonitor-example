@@ -1,4 +1,0 @@
-stts751.c:114:6:STTS751_Init	1
-stts751.c:140:9:STTS751_IsReady	1
-stts751.c:154:9:STTS751_ReadStatus	1
-stts751.c:170:10:STTS751_ReadTemp	1

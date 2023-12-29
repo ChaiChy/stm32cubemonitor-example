@@ -1,4 +1,0 @@
-../Drivers/BSP/Components/stts751/stts751.c:114:6:STTS751_Init	24	static
-../Drivers/BSP/Components/stts751/stts751.c:140:9:STTS751_IsReady	16	static
-../Drivers/BSP/Components/stts751/stts751.c:154:9:STTS751_ReadStatus	24	static
-../Drivers/BSP/Components/stts751/stts751.c:170:10:STTS751_ReadTemp	24	static

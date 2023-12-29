@@ -1,3 +1,0 @@
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_accelerometer.c:99:9:BSP_ACCELERO_Init	32	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_accelerometer.c:160:6:BSP_ACCELERO_Reset	8	static
-../Drivers/BSP/STM32F3-Discovery/stm32f3_discovery_accelerometer.c:174:6:BSP_ACCELERO_GetXYZ	16	static
