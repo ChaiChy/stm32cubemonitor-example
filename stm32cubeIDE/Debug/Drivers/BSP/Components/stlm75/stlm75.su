@@ -1,0 +1,4 @@
+../Drivers/BSP/Components/stlm75/stlm75.c:114:6:STLM75_Init	24	static
+../Drivers/BSP/Components/stlm75/stlm75.c:138:9:STLM75_IsReady	16	static
+../Drivers/BSP/Components/stlm75/stlm75.c:152:9:STLM75_ReadStatus	24	static
+../Drivers/BSP/Components/stlm75/stlm75.c:168:10:STLM75_ReadTemp	24	static

@@ -1,0 +1,4 @@
+stlm75.c:114:6:STLM75_Init	1
+stlm75.c:138:9:STLM75_IsReady	1
+stlm75.c:152:9:STLM75_ReadStatus	1
+stlm75.c:168:10:STLM75_ReadTemp	1

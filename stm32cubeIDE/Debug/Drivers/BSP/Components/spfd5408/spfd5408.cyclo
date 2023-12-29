@@ -1,0 +1,15 @@
+spfd5408.c:123:6:spfd5408_Init	2
+spfd5408.c:214:6:spfd5408_DisplayOn	1
+spfd5408.c:238:6:spfd5408_DisplayOff	1
+spfd5408.c:259:10:spfd5408_GetLcdPixelWidth	1
+spfd5408.c:269:10:spfd5408_GetLcdPixelHeight	1
+spfd5408.c:279:10:spfd5408_ReadID	1
+spfd5408.c:292:6:spfd5408_SetCursor	1
+spfd5408.c:305:6:spfd5408_WritePixel	1
+spfd5408.c:322:10:spfd5408_ReadPixel	1
+spfd5408.c:340:6:spfd5408_WriteReg	1
+spfd5408.c:353:10:spfd5408_ReadReg	1
+spfd5408.c:367:6:spfd5408_SetDisplayWindow	1
+spfd5408.c:388:6:spfd5408_DrawHLine	2
+spfd5408.c:416:6:spfd5408_DrawVLine	2
+spfd5408.c:450:6:spfd5408_DrawBitmap	1
